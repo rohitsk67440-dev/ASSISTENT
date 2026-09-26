@@ -1,0 +1,8 @@
+{
+  "name": "Zoya Assistant",
+  "description": "A real-time, background-running voice assistant and AI agent named Zoya with system automation, file management, and tool calling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
